@@ -62,6 +62,24 @@
     text-decoration: none;
     border: 2px solid #73a7da;
     border-radius: 50em;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 33%;
+    background-color: #004b8d;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+.video {
+  text-align: center;
+  margin: 10px;
+   padding: 10px;
+}
+.covid {
+    text-decoration: none;
+    border: 2px solid #73a7da;
+    border-radius: 50em;
     padding: 15px 30px;
     margin: 0px 8px;
     text-transform: uppercase;
@@ -69,5 +87,128 @@
     width: 33%;
     color: #ffffff;
     background-color: #004b8d;
-    text-align: center;
-  }
+}
+.meeting {
+  text-decoration: none;
+    border: 2px solid #73a7da;
+    border-radius: 50em;
+    padding: 15px 30px;
+    margin: 0px 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 33%;
+    color: #ffffff;
+    background-color: #004b8d;
+}
+.counselors {
+  text-decoration: none;
+    border: 2px solid #73a7da;
+    border-radius: 50em;
+    padding: 15px 30px;
+    margin: 0px 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 33%;
+    color: #ffffff;
+    background-color: #004b8d;
+}
+.buttons a {
+color: white;
+}
+.meeting {
+  color: white;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+.covid {
+  color: white;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+.counselors {
+  color: white;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+.background {
+  background-color: white;
+  border: 5px solid #4485bf;
+  width: auto;
+  height: 250px;
+  box-shadow: 10px 10px 8px 10px #004b8d;
+}
+.meeting a {
+  color: white;
+}
+.counselors a {
+  color: white;
+}
+.covid a {
+  color: white;
+}
+.section1 {
+  text-align: center;
+  padding: 10px;
+  margin: 50px;
+  background-color: white;
+  border: 5px solid #4485bf;
+  box-shadow: 10px 10px 8px 10px #4485bf;
+
+}
+.section1 h3 {
+  color: #004b8d;
+}
+.section1 h1 {
+  color: #004b8d;
+  text-transform: uppercase;
+}
+hr {
+  background-color: #4485bf;
+  height: 1px;
+  border: 2px dotted #4485bf;
+  width: 50%;
+  float: left;
+}
+.section2 {
+  width: 50%;
+  float: left;
+}
+.section2 {
+  align-items: left;
+  border: 5px solid #4485bf;
+  box-shadow: 10px 10px 8px 10px #4485bf;
+
+}
+.section1 hr {
+  width: 100%;
+}
+.section2 h3 {
+  color: #004b8d;
+}
+.section2 h1 {
+  color: #004b8d;
+  text-transform: uppercase;
+}
+.section3 {
+  padding: 15px;
+  margin: 15px;
+  text-align: center;
+  border: 5px solid #4485bf;
+  box-shadow: 10px 10px 8px 10px #4485bf;
+  float: right;
+  width: 40%;
+  height: 500px;
+}
+.section3 h1 {
+  color: #004b8d;
+  text-transform: uppercase;
+}
+.section3 h3 {
+  color: #004b8d;
+}

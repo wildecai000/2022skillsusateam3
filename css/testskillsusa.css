@@ -203,7 +203,7 @@ hr {
   box-shadow: 10px 10px 8px 10px #4485bf;
   float: right;
   width: 40%;
-  height: 500px;
+  height: 472.55px;
 }
 .section3 h1 {
   color: #004b8d;
@@ -211,4 +211,17 @@ hr {
 }
 .section3 h3 {
   color: #004b8d;
+}
+.footer {
+  padding: 35px;
+  margin: 35px;
+  text-align: center;
+}
+.footer h1 {
+  color: #004b8d;
+  text-transform: uppercase;
+}
+.footer h2 {
+  color: #004b8d;
+  text-transform: uppercase;
 }
